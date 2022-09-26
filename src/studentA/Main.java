@@ -2,7 +2,7 @@ package studentA;
 
 public class Main {
 	public static void main(String[] args) {
-		String s = "hello world";
+		String s = "æ»≥Á«œººø‰";
 		System.out.println(s);
 	}
 }
